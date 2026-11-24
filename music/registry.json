@@ -1,0 +1,67 @@
+{
+  "bgm": {
+    "bgm_cotidiano": {
+      "file": "bgm_cotidiano.mp3",
+      "loop": true
+    },
+    "bgm_tension": {
+      "file": "bgm_tension.mp3",
+      "loop": true
+    },
+    "bgm_recuerdo": {
+      "file": "bgm_recuerdo.mp3",
+      "loop": true
+    },
+    "bgm_derrota": {
+      "file": "bgm_derrota.mp3",
+      "loop": false
+    }
+  },
+  "sfx": {
+    "sfx_celular": {
+      "file": "Ringtone.mp3",
+      "folder": "music",
+      "volume": 0.35,
+      "loop": true
+    },
+    "sfx_puerta": {
+      "file": "sfx_puerta.mp3",
+      "folder": "music",
+      "volume": 0.7
+    },
+    "sfx_loza": {
+      "file": "sfx_loza.mp3",
+      "folder": "music",
+      "volume": 0.7
+    },
+    "sfx_latido": {
+      "file": "Latidos.mp3",
+      "folder": "music",
+      "volume": 0.7
+    },
+    "sfx_ficha": {
+      "file": "sfx_ficha.mp3",
+      "folder": "music",
+      "volume": 0.7
+    },
+    "sfx_splash": {
+      "file": "sfx_splash.mp3",
+      "folder": "music",
+      "volume": 0.7
+    }
+  },
+  "ambient": {
+    "amb_reloj": {
+      "file": "amb_reloj.mp3",
+      "folder": "music",
+      "loop": true,
+      "volume": 0.25
+    },
+    "amb_noche_ciudad": {
+      "file": "amb_noche_ciudad(trafico).mp3",
+      "folder": "music",
+      "loop": true,
+      "volume": 0.5
+    }
+  }
+}
